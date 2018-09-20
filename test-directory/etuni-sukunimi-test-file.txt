@@ -1,3 +1,4 @@
-Nimettom�n henkil�n tekstitiedosto.
+Nimettomän henkilön tekstitiedosto.
 Tiedoston toinen rivi.
 Tiedoston kolmas rivi.
+Neljäs rivi lisätty.
