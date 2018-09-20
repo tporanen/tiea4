@@ -1,6 +1,7 @@
-Nimettomän henkilön tekstitiedosto.
+﻿Nimettomän henkilön tekstitiedosto.
 Tiedoston toinen rivi.
 Tiedoston kolmas rivi.
 Neljäs rivi lisätty.
 Viides rivi.
 Kuudes rivi.
+Seitsemäs rivi.
